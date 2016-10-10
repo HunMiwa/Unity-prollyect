@@ -1,1 +1,2 @@
-2016.10.10 Creater Project
+2016.10.10  Creater Project
+            Added README and CHANGELOG
